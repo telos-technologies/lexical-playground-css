@@ -6,7 +6,7 @@
  *
  */
 
-@import 'https://fonts.googleapis.com/css?family=Reenie+Beanie';
+/* @import 'https://fonts.googleapis.com/css?family=Reenie+Beanie';
 
 body {
   margin: 0;
@@ -16,9 +16,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: #eee;
   padding: 0 20px;
-}
+} */
 
-header {
+/* header {
   max-width: 580px;
   margin: auto;
   position: relative;
@@ -36,14 +36,14 @@ header img {
   display: block;
   height: 100%;
   width: 100%;
-}
+} */
 
-header h1 {
+/* header h1 {
   text-align: left;
   color: #333;
   display: inline-block;
   margin: 20px 0 0 0;
-}
+} */
 
 .editor-shell {
   margin: 20px auto;
