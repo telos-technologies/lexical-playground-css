@@ -6,7 +6,7 @@
  *
  *
  */
-.PlaygroundEditorTheme__ltr {
+ .PlaygroundEditorTheme__ltr {
   text-align: left;
 }
 .PlaygroundEditorTheme__rtl {
@@ -279,6 +279,7 @@
   margin: 0;
   margin-left: 16px;
   list-style-position: inside;
+  list-style: auto;
 }
 .PlaygroundEditorTheme__ol2 {
   padding: 0;
@@ -286,6 +287,7 @@
   margin-left: 16px;
   list-style-type: upper-alpha;
   list-style-position: inside;
+  list-style: auto;
 }
 .PlaygroundEditorTheme__ol3 {
   padding: 0;
@@ -293,6 +295,7 @@
   margin-left: 16px;
   list-style-type: lower-alpha;
   list-style-position: inside;
+  list-style: auto;
 }
 .PlaygroundEditorTheme__ol4 {
   padding: 0;
@@ -300,6 +303,7 @@
   margin-left: 16px;
   list-style-type: upper-roman;
   list-style-position: inside;
+  list-style: auto;
 }
 .PlaygroundEditorTheme__ol5 {
   padding: 0;
@@ -307,12 +311,14 @@
   margin-left: 16px;
   list-style-type: lower-roman;
   list-style-position: inside;
+  list-style: auto;
 }
 .PlaygroundEditorTheme__ul {
   padding: 0;
   margin: 0;
   margin-left: 16px;
   list-style-position: inside;
+  list-style: disc;
 }
 .PlaygroundEditorTheme__listItem {
   margin: 0 32px;
